@@ -1,12 +1,7 @@
-- 👋 Hi, I’m @samuelogunti
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-samuelogunti/samuelogunti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I'm @samuelogunti
+- 👀 I'm interested in cloud computing, AWS solutions architecture, and building scalable web applications
+- 🌱 I'm currently learning advanced AWS services, DevOps practices, and modern JavaScript frameworks
+- 💞️ I'm looking to collaborate on open source projects, cloud migration initiatives, and innovative web solutions
+- 📫 How to reach me: Visit my website at [samogunti.com](https://samogunti.com) or connect with me on LinkedIn
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I enjoy writing technical blogs about AWS fundamentals and helping others navigate their cloud journey

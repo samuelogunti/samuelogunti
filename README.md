@@ -38,7 +38,7 @@ D.Sc. Cybersecurity (in progress) | MBA Cybersecurity Risk Management | M.S. Cyb
 ### Connect
 
 Website: [samogunti.com](https://samogunti.com)
-LinkedIn: [linkedin.com/in/samuelogunti](https://linkedin.com/in/samogunti)
+LinkedIn: [linkedin.com/in/samogunti](https://linkedin.com/in/samogunti)
 
 ---
 

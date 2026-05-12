@@ -1,4 +1,4 @@
-# Sam Ogunti
+# Samuel Ogunti
 
 **AI & Cloud Security Leader | Zero Trust Advocate | AWS Authorized Instructor**
 
